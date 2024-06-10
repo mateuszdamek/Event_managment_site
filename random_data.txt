@@ -1,0 +1,35 @@
+w tabeli event, jeżeli kolumna parent_event_id ma wartość null to znaczy, że jest to wydarzenie główne
+jeśli wartość kolumny "event_parent_id" jest ustawiona na identyfikator innego wydarzenia, oznacza to, 
+że dane wydarzenie jest podrzędne i należy do wydarzenia głównego o tym identyfikatorze
+
+INSERT INTO Tag (name) VALUES 
+('Python'),
+('Machine Learning');
+
+INSERT INTO Category (name) VALUES 
+('Nauka'),
+('Technologia');
+
+INSERT INTO User (username, email, role) VALUES 
+('admin', 'admin@example.com', 'administrator'),
+('user1', 'user1@example.com', 'zwykły użytkownik');
+
+INSERT INTO Event (title, description, start_date, end_date, location, organizer_id, status, event_parent_id) VALUES 
+('Konferencja', 'Konferencja dotycząca nowych technologii', '2024-05-01 09:00:00', '2024-05-02 17:00:00', 'Sala konferencyjna A', 1, 'zaplanowane', 5),
+('Warsztaty', 'Warsztaty z programowania', '2024-06-15 10:00:00', '2024-06-15 15:00:00', 'Sala warsztatowa B', 2, 'zaplanowane');
+
+INSERT INTO EventTag (event_id, tag_id) VALUES 
+(5, 1),
+(6, 2);
+
+INSERT INTO EventCategory (event_id, category_id) VALUES 
+(5, 1),
+(6, 2);
+
+INSERT INTO EventRegistration (event_id, user_id, registration_date) VALUES 
+(5, 2, '2024-04-25 08:30:00'),
+(6, 1, '2024-05-30 10:00:00');
+
+INSERT INTO EventSubmission (event_id, title, description, submitter_id, status) VALUES 
+(5, 'Propozycja prezentacji', 'Propozycja prezentacji na konferencję', 2, 'oczekujące'),
+(6, 'Zgłoszenie na warsztaty', 'Chciałbym zapisać się na warsztaty z programowania', 1, 'oczekujące');

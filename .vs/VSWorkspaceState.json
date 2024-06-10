@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\app",
+    "\\backend\\app\\templates",
+    "\\backend\\app\\templatetags",
+    "\\backend\\Event",
+    "\\frontend"
+  ],
+  "SelectedNode": "\\backend\\app\\templates\\event_detail.html",
+  "PreviewInSolutionExplorer": false
+}

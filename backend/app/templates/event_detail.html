@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ event.title }}</title>
+</head>
+<body>
+    <h1>{{ event.title }}</h1>
+    <p>Date: {{ event.date }}</p>
+    <p>Start Date: {{ event.start_date }}</p>
+    <p>End Date: {{ event.end_date }}</p>
+    <p>Description: {{ event.description }}</p>
+    <p>Location: {{ event.location }}</p>
+    <p>Status: {{ event.status }}</p>
+    <p>Organizer: {{ event.organizer_ID.username }}</p>
+    <p>Parent Event ID: {{ event.parent_event_ID }}</p>
+
+    {% if user.is_authenticated %}
+    {% if is_registered %}
+    <form action="{% url 'leave_event' event.pk %}" method="post">
+        {% csrf_token %}
+        <button type="submit" style="background-color: red;">Leave Event</button>
+    </form>
+    {% else %}
+    <form action="{% url 'join_event' event.pk %}" method="post">
+        {% csrf_token %}
+        <button type="submit" style="background-color: green;">Join Event</button>
+    </form>
+    {% endif %}
+    {% endif %}
+</body>
+</html>

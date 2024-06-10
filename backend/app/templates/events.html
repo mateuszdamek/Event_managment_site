@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events</title>
+</head>
+<body>
+    <h1>Events</h1>
+    <div>
+        {% for event in events %}
+        <div>
+            <h2><a href="{% url 'event_detail' event.pk %}">{{ event.title }}</a></h2>
+            <p>Date: {{ event.date }}</p>
+            <p>Description: {{ event.description }}</p>
+            {% if user.is_authenticated %}
+            {% if event in user_registered_events %}
+            <form action="{% url 'leave_event' event.pk %}" method="post">
+                {% csrf_token %}
+                <button type="submit" style="background-color: red;">Leave Event</button>
+            </form>
+            {% else %}
+            <form action="{% url 'join_event' event.pk %}" method="post">
+                {% csrf_token %}
+                <button type="submit" style="background-color: green;">Join Event</button>
+            </form>
+            {% endif %}
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+    <div>
+        {% for message in messages %}
+        <p>{{ message }}</p>
+        {% endfor %}
+    </div>
+</body>
+</html>

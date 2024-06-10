@@ -1,0 +1,560 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\event_detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templates\\event_detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\admin.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\admin.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templatetags\\custom_filters.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templatetags\\custom_filters.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\admin_dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templates\\admin_dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Event\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\user_detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templates\\user_detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\user_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templates\\user_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\events.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templates\\events.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templates\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templates\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\serializer.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\serializer.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Event\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\asgi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Event\\asgi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templatetags\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templatetags\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\edit_event.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templates\\edit_event.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templates\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templates\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\edit_user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templates\\edit_user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\create_event.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\templates\\create_event.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\validations.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\validations.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Event\\wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Event\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\manage.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\manage.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\random_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:random_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\migrations\\0003_user_role.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\app\\migrations\\0003_user_role.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 103,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "event_detail.html",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\event_detail.html",
+              "RelativeDocumentMoniker": "backend\\app\\templates\\event_detail.html",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\event_detail.html",
+              "RelativeToolTip": "backend\\app\\templates\\event_detail.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-30T15:40:46.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "__init__.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templatetags\\__init__.py",
+              "RelativeDocumentMoniker": "backend\\app\\templatetags\\__init__.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templatetags\\__init__.py",
+              "RelativeToolTip": "backend\\app\\templatetags\\__init__.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-30T14:38:12.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "custom_filters.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templatetags\\custom_filters.py",
+              "RelativeDocumentMoniker": "backend\\app\\templatetags\\custom_filters.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templatetags\\custom_filters.py",
+              "RelativeToolTip": "backend\\app\\templatetags\\custom_filters.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-30T14:28:07.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-30T14:00:49.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "random_data.txt",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\random_data.txt",
+              "RelativeDocumentMoniker": "random_data.txt",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\random_data.txt",
+              "RelativeToolTip": "random_data.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-30T14:00:48.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "asgi.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\asgi.py",
+              "RelativeDocumentMoniker": "backend\\Event\\asgi.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\asgi.py",
+              "RelativeToolTip": "backend\\Event\\asgi.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-21T07:31:34.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "__init__.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\__init__.py",
+              "RelativeDocumentMoniker": "backend\\Event\\__init__.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\__init__.py",
+              "RelativeToolTip": "backend\\Event\\__init__.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-21T07:30:27.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "create_event.html",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\create_event.html",
+              "RelativeDocumentMoniker": "backend\\app\\templates\\create_event.html",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\create_event.html",
+              "RelativeToolTip": "backend\\app\\templates\\create_event.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-21T06:53:04.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "edit_event.html",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\edit_event.html",
+              "RelativeDocumentMoniker": "backend\\app\\templates\\edit_event.html",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\edit_event.html",
+              "RelativeToolTip": "backend\\app\\templates\\edit_event.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-21T06:43:08.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "forms.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\forms.py",
+              "RelativeDocumentMoniker": "backend\\app\\forms.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\forms.py",
+              "RelativeToolTip": "backend\\app\\forms.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T20:00:30.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "user_detail.html",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\user_detail.html",
+              "RelativeDocumentMoniker": "backend\\app\\templates\\user_detail.html",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\user_detail.html",
+              "RelativeToolTip": "backend\\app\\templates\\user_detail.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-20T19:02:30.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "wsgi.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\wsgi.py",
+              "RelativeDocumentMoniker": "backend\\Event\\wsgi.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\wsgi.py",
+              "RelativeToolTip": "backend\\Event\\wsgi.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T18:30:55.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "user_list.html",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\user_list.html",
+              "RelativeDocumentMoniker": "backend\\app\\templates\\user_list.html",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\user_list.html",
+              "RelativeToolTip": "backend\\app\\templates\\user_list.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-20T18:30:28.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "edit_user.html",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\edit_user.html",
+              "RelativeDocumentMoniker": "backend\\app\\templates\\edit_user.html",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\edit_user.html",
+              "RelativeToolTip": "backend\\app\\templates\\edit_user.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-20T17:41:52.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "events.html",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\events.html",
+              "RelativeDocumentMoniker": "backend\\app\\templates\\events.html",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\events.html",
+              "RelativeToolTip": "backend\\app\\templates\\events.html",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-20T17:20:30.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "0003_user_role.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\migrations\\0003_user_role.py",
+              "RelativeDocumentMoniker": "backend\\app\\migrations\\0003_user_role.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\migrations\\0003_user_role.py",
+              "RelativeToolTip": "backend\\app\\migrations\\0003_user_role.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T15:22:46.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\register.html",
+              "RelativeDocumentMoniker": "backend\\app\\templates\\register.html",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\register.html",
+              "RelativeToolTip": "backend\\app\\templates\\register.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-20T15:05:54.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\login.html",
+              "RelativeDocumentMoniker": "backend\\app\\templates\\login.html",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\login.html",
+              "RelativeToolTip": "backend\\app\\templates\\login.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-20T15:02:51.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\urls.py",
+              "RelativeDocumentMoniker": "backend\\app\\urls.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\urls.py",
+              "RelativeToolTip": "backend\\app\\urls.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T14:56:29.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "__init__.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\__init__.py",
+              "RelativeDocumentMoniker": "backend\\app\\__init__.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\__init__.py",
+              "RelativeToolTip": "backend\\app\\__init__.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T14:56:03.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\admin.py",
+              "RelativeDocumentMoniker": "backend\\app\\admin.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\admin.py",
+              "RelativeToolTip": "backend\\app\\admin.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T14:33:00.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "apps.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\apps.py",
+              "RelativeDocumentMoniker": "backend\\app\\apps.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\apps.py",
+              "RelativeToolTip": "backend\\app\\apps.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T14:32:58.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admin_dashboard.html",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\admin_dashboard.html",
+              "RelativeDocumentMoniker": "backend\\app\\templates\\admin_dashboard.html",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\admin_dashboard.html",
+              "RelativeToolTip": "backend\\app\\templates\\admin_dashboard.html",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-20T14:32:33.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\home.html",
+              "RelativeDocumentMoniker": "backend\\app\\templates\\home.html",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\home.html",
+              "RelativeToolTip": "backend\\app\\templates\\home.html",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwDEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-20T14:32:09.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "base.html",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\base.html",
+              "RelativeDocumentMoniker": "backend\\app\\templates\\base.html",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\templates\\base.html",
+              "RelativeToolTip": "backend\\app\\templates\\base.html",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-20T14:31:46.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\models.py",
+              "RelativeDocumentMoniker": "backend\\app\\models.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\models.py",
+              "RelativeToolTip": "backend\\app\\models.py",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAADQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T13:47:03.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "serializer.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\serializer.py",
+              "RelativeDocumentMoniker": "backend\\app\\serializer.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\serializer.py",
+              "RelativeToolTip": "backend\\app\\serializer.py",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T13:46:53.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tests.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\tests.py",
+              "RelativeDocumentMoniker": "backend\\app\\tests.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\tests.py",
+              "RelativeToolTip": "backend\\app\\tests.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T13:46:51.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "validations.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\validations.py",
+              "RelativeDocumentMoniker": "backend\\app\\validations.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\validations.py",
+              "RelativeToolTip": "backend\\app\\validations.py",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T13:46:47.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "settings.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\settings.py",
+              "RelativeDocumentMoniker": "backend\\Event\\settings.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\settings.py",
+              "RelativeToolTip": "backend\\Event\\settings.py",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T13:45:46.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\views.py",
+              "RelativeDocumentMoniker": "backend\\app\\views.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\app\\views.py",
+              "RelativeToolTip": "backend\\app\\views.py",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAAABUBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T13:37:00.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\urls.py",
+              "RelativeDocumentMoniker": "backend\\Event\\urls.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\Event\\urls.py",
+              "RelativeToolTip": "backend\\Event\\urls.py",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T13:36:36.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "manage.py",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\manage.py",
+              "RelativeDocumentMoniker": "backend\\manage.py",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\EventManagementSystem-main\\EventManagementSystem-main\\backend\\manage.py",
+              "RelativeToolTip": "backend\\manage.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T13:34:05.377Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
